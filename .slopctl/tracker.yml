@@ -1,0 +1,68 @@
+.pi/settings.json:
+  original_sha: 1d7dbfd275ca32f8bce6140cf2130c14ff3b76c14983568e7ed59c5f621a0fee
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.049252+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: agent
+  origin: slopctl-starter
+.agents/skills/git-workflow/SKILL.md:
+  original_sha: e77221a6957de986cdd456c69f80d4009ac8bf5e118a3e926c47260746ae92be
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.049494+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: skill
+  origin: slopctl-starter
+.agents/skills/recent-updates/SKILL.md:
+  original_sha: 27fbb14192738a4e76042bf7322b4b529f4996354fa427700624deccd3ef6dc9
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.049760+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: skill
+  origin: slopctl-starter
+UPDATES.md:
+  original_sha: ff56fd563cb60b9073230b3b0721e5687c98fd7888129b47f2bbc557e9c9c940
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.048992+00:00
+  lang: []
+  agent: []
+  ref_count: 0
+  category: integration
+  origin: slopctl-starter
+.pi/prompts/init-session.md:
+  original_sha: 091d9ba6410d1f0a11a509501ac238eb32fd9f63b0c804cac156f0ad09a96278
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.049143+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: agent
+  origin: slopctl-starter
+.agents/skills/semantic-versioning/SKILL.md:
+  original_sha: d313d5c1a851aaf9b8cebc250e280cbe37bc70fdb06d95f74de6b60eafdf5f4d
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.049629+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: skill
+  origin: slopctl-starter
+AGENTS.md:
+  original_sha: 284eebfbf1a5ae1d4d14c88d82da66d107c5d3564365eb4183787dee8c42e07c
+  template_version: 5
+  installed_date: 2026-11-18T13:59:59.048802+00:00
+  lang: []
+  agent:
+  - pi
+  ref_count: 1
+  category: main

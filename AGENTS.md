@@ -1,6 +1,6 @@
 # Project Instructions for AI Coding Agents
 
-**Last updated:** 2026-11-18
+**Last updated:** 2026-11-18 15:05 CET
 
 <!-- {preamble} -->
 
@@ -14,15 +14,20 @@ Run `/init-session` at the beginning of each new session, OR read this entire fi
 
 ## Mission Statement
 
-[Describe your project here - what it does, its purpose, and key features]
+Maintain light and dark GitHub Colorblind theme adaptations for Pi, preserving
+upstream attribution and documenting palette mappings and accessibility limits.
+
+- **Repository:** git@github.com:heikopanjas/pi-themes.git
+- **Public documentation:** `README.md`
+- **License and upstream notices:** `LICENSE`
 
 ## Technology Stack
 
-- **Language:** [e.g., Python, TypeScript, JavaScript]
-- **Framework:** [e.g., React, Next.js, Django, FastAPI]
-- **Version Control:** Git
-- **Package Manager:** [e.g., npm, pip, poetry, yarn]
-- **License:** [e.g., MIT, Apache 2.0]
+- **Format:** JSON theme definitions and Markdown documentation
+- **Runtime:** Pi
+- **Version Control:** Git, hosted on GitHub
+- **Build / Package Manager:** None currently configured
+- **License:** MIT; preserve the upstream notices in `LICENSE`
 
 ## Session Protocol
 
@@ -88,11 +93,10 @@ When initializing a session or analyzing the workspace, refer to instruction fil
 
 ### Development Guidelines
 
-[Add project-specific development guidelines]
-
-- [Guideline 1]
-- [Guideline 2]
-- [Guideline 3]
+- Keep theme JSON files at the repository root, alongside `README.md` and `LICENSE`.
+- Keep license links and attribution synchronized with the root `LICENSE` file.
+- Use `.gitignore` for OS metadata, local editor files, logs, and environment secrets;
+  allow environment example files. Keep shared agent instructions and configuration tracked.
 
 ### Security & Safety
 

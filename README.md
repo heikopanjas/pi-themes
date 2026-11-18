@@ -95,7 +95,7 @@ across the canvas and every message/tool panel:
 These checks do not cover dim text, decorative borders, arbitrary terminal
 backgrounds, ANSI-colored subprocess output, or 256-color approximation.
 They are not a guarantee of accessibility for every form of color vision
- deficiency. Pi's existing diff signs and status labels remain important
+deficiency. Pi's existing diff signs and status labels remain important
 non-color cues. No interactive visual review was performed.
 
 ## Provenance
@@ -107,6 +107,6 @@ non-color cues. No interactive visual review was performed.
 - [`@primer/primitives` 7.10.0](https://www.npmjs.com/package/@primer/primitives/v/7.10.0),
   the exact version used by that theme, specifically
   `dist/json/colors/dark_colorblind.json` and `light_colorblind.json`.
-- Upstream MIT notices are retained in `LICENSE.github-colorblind.txt`.
+- Upstream MIT notices are retained in [`LICENSE`](LICENSE).
 
 These are unofficial adaptations, not themes published or endorsed by GitHub.
